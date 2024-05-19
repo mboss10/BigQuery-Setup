@@ -21,3 +21,21 @@ How bigquery works:
 * Projects
   * Data Sets - which are kind of like folders
     * SQL tables and Views underneath those data sets 
+
+
+Pretty cool feature of BigQuery is it pre calculates the cost of a query before you run it so you know how "expensive" the query will be, which is kind of important if, like me, you are trying to use for free each month.
+We have 1TB of free processing data which is a LOT!!
+
+
+
+### Query Connsole
+
+
+
+Shortcuts (Mac):
+* CMD + Return = run a SQL statement
+* CMD + / = put in comments all the text highlighted
+
+Save query
+
+More --> Format query
