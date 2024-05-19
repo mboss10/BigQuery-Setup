@@ -36,6 +36,12 @@ Shortcuts (Mac):
 * CMD + Return = run a SQL statement
 * CMD + / = put in comments all the text highlighted
 
+
 Save query
 
+
+Set a destination table for query results
+
 More --> Format query
+
+Explore data
