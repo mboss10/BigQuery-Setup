@@ -37,6 +37,7 @@ Shortcuts (Mac):
 * CMD + / = put in comments all the text highlighted
 
 
+
 Save query
 
 
